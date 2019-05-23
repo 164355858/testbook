@@ -1,23 +1,10 @@
-# Untitled
+---
+description: >-
+  水库羊年贺禧 ------ 毁三观，竖新生 #1 水库羊年贺禧 ------
+  毁三观，竖新生1当2001年时，股市2100点，莘闵虹梅一带房子2100元\/㎡。二者比例1:1
+  到2009年时，股市2200点，房子22000元\/㎡，比例是1：10在过去十五年中，房产投资者（炒房）成了大赢家。其回报超过了普通投资者股市的十倍。
+  一套房子，成了贫富之间的分水岭。一些早期买房者，现在都已坐拥
+---
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+# 1
 
